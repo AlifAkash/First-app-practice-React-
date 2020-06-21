@@ -1,0 +1,17 @@
+.main-container{
+    display: flex;
+}
+
+.profile-container{
+    width: 75%;
+    border-right: 1px solid gray;
+    margin-right: 5px;
+    margin-left: 20px;
+
+
+}
+
+.review-container{
+    text-align: center;
+    color: cadetblue;
+}
